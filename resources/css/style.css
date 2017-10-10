@@ -1,7 +1,11 @@
 .navbar-default .navbar-nav > .active > a {
 
- }
+}
 
- .navbar-default .navbar-nav > .active > a:hover {
+.navbar-default .navbar-nav > .active > a:hover {
 
- }
+}
+
+div.jumbotron {
+  background-image: url("../images/jumbotron-bike.jpg");
+}
