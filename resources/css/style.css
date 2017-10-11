@@ -17,7 +17,7 @@ nav a,
 .project-title,
 #product-categories,
 #projects,
-footer h3 {
+footer .container-fluid h3 {
   font-weight: bold;
 }
 
@@ -128,12 +128,11 @@ footer {
   padding-bottom: 5.2rem;
 }
 
-footer h3,
-footer p {
-  width: 42rem;
-}
-
 footer h3 {
   font-size: 2.5rem;
   padding-bottom: 1.4rem;
+}
+
+footer p {
+  width: 42rem;
 }
