@@ -10,6 +10,16 @@ div.jumbotron {
   background-image: url("../images/jumbotron-bike.jpg");
 }
 
+.image-container {
+  overflow: hidden;
+}
+
 .image-container img {
   opacity: 0.7;
+  transition: transform 0.5, opacity 0.5;
+}
+
+.image-container img:hover {
+  opacity: 1;
+  transform: scale(1.3);
 }
