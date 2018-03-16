@@ -28,7 +28,7 @@ img {
 }
 
 .jumbotron {
-  padding: 11.85rem 0;
+  padding: 15.85rem 0;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -38,20 +38,23 @@ img {
                1px -1px 0 #000,
                -1px 1px 0 #000,
                1px 1px 0 #000;
+  height: 62rem;
 }
 
 .jumbotron h1 {
   font-family: "Monoton";
-  font-size: 7.1rem;
+  font-size: 10.1rem;
 }
 
 .jumbotron h1,
 .jumbotron p {
   margin: auto;
+
 }
 
 .jumbotron p {
-  max-width: 51.3rem;
+  max-width: 71.3rem;
+  padding-top: 2.5rem;
 }
 
 .jumbotron-bike {
@@ -72,7 +75,7 @@ img {
 
 .relative-wrapper {
   position: relative;
-  top: -16rem;
+  top: -25rem;
   width: 100%;
   text-align: center;
 }
@@ -95,6 +98,10 @@ img {
 
 .btn-primary:active {
   box-shadow: 0 0 0 rgba(0, 0, 0, 0.5);
+}
+
+.slick-slide {
+  outline: none;
 }
 
 .featured-project {
