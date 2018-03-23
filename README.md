@@ -1,6 +1,8 @@
 # Jumpstart
 
-A responsive Bootstrap web page for a fictional crowdfunding company requiring the use of jQuery's carousel plugin and jQuery animations.
+A responsive web page requiring the use of jQuery's carousel plugin and jQuery animations.
+
+- HTML, Bootstrap, CSS, JavaScript and jQuery.
 
 ### Design Spec:
 
